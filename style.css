@@ -1,0 +1,23 @@
+/*Header Style*/
+h1{
+    text-align: center;
+}
+/*Body Style*/
+body{
+    background-color: lightcyan;
+}
+/*Box Styles */
+.MainBox{
+    display:flex;
+    justify-content: center;
+}
+.InnerBox{
+    display:flex;
+    flex-direction: row;
+    border:1px solid black;
+    padding:4px;
+}
+.Details{
+    font-weight:bold;
+    width: 280px;
+}
